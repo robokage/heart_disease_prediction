@@ -1,6 +1,6 @@
 # Heart Disease Prediction web app deployed on Heroku
 
-The deployed web app is live at https://heart-dis-prediction-app.herokuapp.com/
+The deployed web app is live at https://heart-dis-prediction.herokuapp.com/
 
 This web app predicts the if the user has heart disease or not as a function of the input parameters by the user.
 
