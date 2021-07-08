@@ -97,7 +97,7 @@ else:
             st.warning("You have Heart Disease. Please consult a doctor ASAP")
             
         else:
-            st.success("Congratulations you have no Heart Disease!!")
+            st.success("Congratulations you don't have Heart Disease!!")
             st.balloons()
 
         pred_proba = model.predict_proba(data)
