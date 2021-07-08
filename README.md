@@ -4,12 +4,14 @@ The deployed web app is live at https://dp-penguins.herokuapp.com/
 
 This web app predicts the if the user has heart disease or not as a function of the input parameters by the user.
 
-The model was created through data science pipeline on jupyter notebook
+The model was created through data science pipeline on jupyter notebook https://github.com/robokage/heart_disease_prediction/blob/main/my_heart_disease_project.ipynb .
+
 
 The web app was built in Python using the following libraries:
-
-streamlit
-pandas
-numpy
-scikit-learn
-pickle
+<ul>
+  <li>streamlit</li>
+<li>pandas</li>
+<li>numpy</li>
+<li>scikit-learn</li>
+<li>pickle</li>
+</ul>
