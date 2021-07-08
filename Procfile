@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run heary_diseasee_web_app.py
